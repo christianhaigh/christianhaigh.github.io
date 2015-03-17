@@ -16,6 +16,9 @@ body {
 .header {
   border-bottom: 1px solid #e5e5e5;
 }
+a:hover {
+    text-decoration: underline;
+}
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
   margin-top: 0;
@@ -40,7 +43,6 @@ body {
 .container-narrow > hr {
   margin: 30px 0;
 }
-
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
