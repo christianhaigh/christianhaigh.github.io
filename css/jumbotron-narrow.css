@@ -22,13 +22,12 @@ body {
   margin-bottom: 0;
   line-height: 40px;
   padding-bottom: 19px;
-  color: #800000;
 }
 
 /* Custom page footer */
 .footer {
   padding-top: 19px;
-  color: #800000;
+  color: #777;
   border-top: 1px solid #e5e5e5;
 }
 
