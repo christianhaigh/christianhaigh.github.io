@@ -44,15 +44,14 @@ ul.posts li {
     list-style: none;
 }
 img{
-}
-.img-circle {
-    position: absolute; 
-    right: 42.5%; 
-    top: 10px;
+    .img-circle {
+        position: absolute; 
+        right: 42.5%; 
+        top: 10px;
+    }
 }
 @ media{
-    
-}
-.col-sm-6 {
-    text-align: center;
+    .col-sm-6 {
+        text-align: center;
+    }
 }
