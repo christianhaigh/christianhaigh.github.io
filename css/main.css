@@ -50,4 +50,9 @@ img{
     right: 42.5%; 
     top: 10px;
 }
-
+@ media{
+    
+}
+.col-sm-6 {
+    text-align: center;
+}
