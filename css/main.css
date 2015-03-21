@@ -43,3 +43,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+img-circle avatar {
+    position: absolute; 
+    right: 42.5%; 
+    top: 10%;
+}
+}
