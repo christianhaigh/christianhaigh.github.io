@@ -48,6 +48,6 @@ img{
 .img-circle {
     position: absolute; 
     right: 42.5%; 
-    top: 5%;
+    top: 10px;
 }
 
